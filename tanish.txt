@@ -1,0 +1,8 @@
+On Clicking AboutUs it will take you to About us page
+
+On Clicking Home it will take you to Home page
+
+On Clicking Mirzapur it will take you to Mirzapur Trailer page
+
+On Clicking FamilyMan Pic it will take you to Family Man Trailer page
+
